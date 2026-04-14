@@ -1,0 +1,105 @@
+{
+  "results": [
+    {
+      "company_name": "By-health Co Ltd",
+      "ticker": "300146",
+      "exchange": "CNINFO",
+      "year": 2024,
+      "reports": [
+        {
+          "title": "汤臣倍健：2024年年度报告",
+          "date": "2025-03-21 23:00",
+          "url": "http://static.cninfo.com.cn/finalpage/2025-03-22/1222867896.PDF",
+          "type": "Annual Report",
+          "source": "CNINFO"
+        },
+        {
+          "title": "汤臣倍健：2024汤臣倍健ESG报告",
+          "date": "2025-04-25 23:00",
+          "url": "http://static.cninfo.com.cn/finalpage/2025-04-26/1223306768.PDF",
+          "type": "ESG Report",
+          "source": "CNINFO"
+        },
+        {
+          "title": "汤臣倍健：2025年年度报告",
+          "date": "2026-03-20 23:00",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225023315.PDF",
+          "type": "Annual Report",
+          "source": "CNINFO"
+        }
+      ]
+    },
+    {
+      "company_name": "ANGEL YEAST CO LTD",
+      "ticker": "600298",
+      "exchange": "CNINFO",
+      "year": 2024,
+      "reports": [
+        {
+          "title": "安琪酵母：安琪酵母股份有限公司2024年年度报告",
+          "date": "2025-04-09 23:00",
+          "url": "http://static.cninfo.com.cn/finalpage/2025-04-10/1223046779.PDF",
+          "type": "Annual Report",
+          "source": "CNINFO"
+        },
+        {
+          "title": "安琪酵母：安琪酵母股份有限公司2024年度可持续发展报告",
+          "date": "2025-04-25 23:00",
+          "url": "http://static.cninfo.com.cn/finalpage/2025-04-26/1223309273.PDF",
+          "type": "Sustainability Report",
+          "source": "CNINFO"
+        },
+        {
+          "title": "安琪酵母：安琪酵母股份有限公司2025年年度报告",
+          "date": "2026-03-30 23:00",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225056953.PDF",
+          "type": "Annual Report",
+          "source": "CNINFO"
+        },
+        {
+          "title": "安琪酵母：安琪酵母股份有限公司2025年度可持续发展报告",
+          "date": "2026-03-30 23:00",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225056984.PDF",
+          "type": "Sustainability Report",
+          "source": "CNINFO"
+        }
+      ]
+    },
+    {
+      "company_name": "Pingdingshan Tianan Coal Mining Co Ltd",
+      "ticker": "601666",
+      "exchange": "CNINFO",
+      "year": 2024,
+      "reports": [
+        {
+          "title": "平煤股份：平煤股份2024年年度报告",
+          "date": "2025-03-20 23:00",
+          "url": "http://static.cninfo.com.cn/finalpage/2025-03-21/1222858540.PDF",
+          "type": "Annual Report",
+          "source": "CNINFO"
+        },
+        {
+          "title": "平煤股份：平煤股份2024年度可持续发展报告",
+          "date": "2025-03-20 23:00",
+          "url": "http://static.cninfo.com.cn/finalpage/2025-03-21/1222858543.PDF",
+          "type": "Sustainability Report",
+          "source": "CNINFO"
+        },
+        {
+          "title": "平煤股份：华泰联合证券有限责任公司关于平顶山天安煤业股份有限公司2024年持续督导年度报告书",
+          "date": "2025-03-28 23:00",
+          "url": "http://static.cninfo.com.cn/finalpage/2025-03-29/1222943811.PDF",
+          "type": "Annual Report",
+          "source": "CNINFO"
+        },
+        {
+          "title": "平煤股份：河南守正创新会计师事务所（特殊普通合伙）关于平顶山天安煤业股份有限公司2024年年度报告的信息披露监管问询函的回复",
+          "date": "2025-06-25 23:00",
+          "url": "http://static.cninfo.com.cn/finalpage/2025-06-26/1223981958.PDF",
+          "type": "Annual Report",
+          "source": "CNINFO"
+        }
+      ]
+    }
+  ]
+}
